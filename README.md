@@ -1,3 +1,5 @@
+# PROJET PAS A JOUR 
+
 # Premier jeu 2D Java
 
 De qui : Mathéo MRL, alias Jus2papaille. Je suis étudiant en première année de BUT informatique et je souhaite pousser les connaissances acquises en cours à leur maximum.
