@@ -2,7 +2,7 @@
 
 # Premier jeu 2D Java
 
-De qui : Mathéo MRL, alias Jus2papaille. Je suis étudiant en première année de BUT informatique et je souhaite pousser les connaissances acquises en cours à leur maximum.
+De qui : Mathéo MRL, alias Jus2papaille. Je suis étudiant en deuxième année de BUT informatique et je souhaite pousser les connaissances acquises en cours à leur maximum.
 
 De quand à quand : L'objectif est de développer avant la prochaine année, soit le début du projet le 21/04/24.
 
