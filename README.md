@@ -15,7 +15,7 @@ Objectifs :
 
 # First Game in Java
 
-From whom: Mathéo MRL, also known as Jus2papaille. I am a first-year student in computer science and I want to push the knowledge acquired in class to its maximum.
+From whom: Mathéo MRL, also known as Jus2papaille. I am a second-year student in computer science and I want to push the knowledge acquired in class to its maximum.
 
 From when to when: The objective is to develop before the next year, which means starting the project on 21/04/24.
 
